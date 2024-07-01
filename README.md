@@ -1,2 +1,2 @@
-# ZJU_ads
-23-24 ADS by yy
+# INTRODUCTION
+some eazy C code BY me for learning Algorithm and Data structures
